@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<img align="center" alt="" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c1e6a.appspot.com/o/Movie%20App.jpg?alt=media&token=993fe59a-eb5f-4209-8b3e-11db4a63a428&_gl=1*jr268p*_ga*MjAzODQ3NjI1NS4xNjk2NTkyOTkw*_ga_CW55HF8NVT*MTY5ODk3MzAxOC40LjEuMTY5ODk3MzU3MC41NS4wLjA.">
+<img align="center" alt="" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c1e6a.appspot.com/o/image.jpg?alt=media&token=30b098a1-2d99-40a4-abcd-4429ffef0e5c">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
